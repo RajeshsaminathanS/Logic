@@ -32,6 +32,8 @@ s.ensureCapacity(10);
 System.out.println(ss.capacity());
 s.ensureCapacity(100);
 System.out.println(ss.capacity());
+ss.append("Vicky is my friend");
+System.out.println(ss.capacity());
 
 
 
